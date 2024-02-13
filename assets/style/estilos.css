@@ -1,0 +1,17 @@
+.fondo{
+    background-color: rgb(250, 240, 227);
+}
+.fuente{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 40;
+}
+.fuente1{
+     font-family: "Shadows Into Light", cursive;
+     font-size: 30;
+     
+
+}
+
+a{
+    text-decoration: none;
+}
