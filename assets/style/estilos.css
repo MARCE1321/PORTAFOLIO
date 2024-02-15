@@ -3,15 +3,15 @@
 }
 .fuente{
     font-family: 'Architects Daughter', cursive;
-    font-size: 40;
+    ;
 }
 .fuente1{
      font-family: "Shadows Into Light", cursive;
-     font-size: 30;
-     
-
 }
 
-a{
-    text-decoration: none;
+.tamano{
+    font-size: 21px;
+}
+.tamano2{
+    font-size: 21px;
 }
